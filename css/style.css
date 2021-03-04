@@ -74,7 +74,7 @@ a:hover{
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
-  position: relative;
+  position: absolute;
   top: -50px;
   /*Your code here*/
 }
